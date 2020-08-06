@@ -9,3 +9,4 @@ Tecnologias utilizadas:
 
 Dependências:
 - Instalando o Express: npm install express
+- Instalando o Nunjucks: npm install nunjucks
