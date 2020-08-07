@@ -1,5 +1,5 @@
 # NLW2
-Projeto web ministrado pela Rocketseat onde uma plataforma de ensino foi desenvolvida, permitindo que o usuário encontre professores para ter aulas, e os professores também podem se cadastrar para oferecer os seus serviços.
+Projeto web ministrado pela Rocketseat onde uma plataforma de ensino foi desenvolvida. A aplicação permite que professores se cadastrem para oferecer os seus serviços, e os usuários podem entrar em contato com os professores para ter aulas particulares.
 
 Tecnologias utilizadas:
 - HTML
@@ -9,3 +9,4 @@ Tecnologias utilizadas:
 
 Dependências:
 - Instalando o Express: npm install express
+- Instalando o Nunjucks: npm install nunjucks
